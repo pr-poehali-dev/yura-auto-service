@@ -277,7 +277,7 @@ export default function Index() {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center space-x-2 mb-4 md:mb-0">
               <Icon name="Wrench" className="h-6 w-6 text-orange-500" />
-              <span className="text-lg font-bold">Автомастерская Магнит</span>
+              <span className="text-lg font-bold">АвтоМастерская Магнит</span>
             </div>
             <div className="text-sm text-gray-400">© 2025 АвтоМастерская Магнит. Все права защищены.</div>
           </div>
