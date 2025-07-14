@@ -36,20 +36,15 @@ export default function Index() {
 МАГНИТ</h1>
               <p className="text-xl mb-8 text-orange-100"></p>
               <div className="flex flex-col sm:flex-row gap-4">
-                <Button size="lg" className="bg-white text-orange-500 hover:bg-gray-100">
-                  <Icon name="Phone" className="mr-2 h-5 w-5" />
-                  Позвонить сейчас
-                </Button>
-                <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-orange-500">
-                  Записаться онлайн
-                </Button>
+                <Button size="lg" className="bg-white text-orange-500 hover:bg-gray-100"></Button>
+                <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-orange-500"></Button>
               </div>
             </div>
             <div className="relative">
               <div className="bg-white/10 backdrop-blur-sm rounded-xl p-8 border border-white/20">
                 <div className="grid grid-cols-2 gap-6 text-center">
                   <div>
-                    <div className="text-3xl font-bold">15</div>
+                    <div className="text-3xl font-bold">15+</div>
                     <div className="text-orange-100">лет опыта</div>
                   </div>
                   <div>
@@ -104,10 +99,7 @@ export default function Index() {
                     <Icon name="Check" className="h-4 w-4 text-green-500 mr-2" />
                     Ремонт тормозов
                   </li>
-                  <li className="flex items-center">
-                    <Icon name="Check" className="h-4 w-4 text-green-500 mr-2" />
-                    Развал-схождение
-                  </li>
+                  <li className="flex items-center"></li>
                 </ul>
               </CardContent>
             </Card>
@@ -158,10 +150,7 @@ export default function Index() {
                     <Icon name="Check" className="h-4 w-4 text-green-500 mr-2" />
                     Замена лампочек
                   </li>
-                  <li className="flex items-center">
-                    <Icon name="Check" className="h-4 w-4 text-green-500 mr-2" />
-                    Мелкий кузовной ремонт
-                  </li>
+                  <li className="flex items-center"></li>
                   <li className="flex items-center">
                     <Icon name="Check" className="h-4 w-4 text-green-500 mr-2" />
                     Замена фильтров
@@ -233,7 +222,7 @@ export default function Index() {
                   </div>
                   <div>
                     <h3 className="font-semibold">Телефон</h3>
-                    <p className="text-gray-300">+7 (999) 123-45-67</p>
+                    <p className="text-gray-300">+7 (996)3458847</p>
                   </div>
                 </div>
                 <div className="flex items-center space-x-4">
@@ -242,7 +231,7 @@ export default function Index() {
                   </div>
                   <div>
                     <h3 className="font-semibold">Адрес</h3>
-                    <p className="text-gray-300">ул. Автомобильная, 123</p>
+                    <p className="text-gray-300">ул. Артиллерийская ГСК № 89</p>
                   </div>
                 </div>
                 <div className="flex items-center space-x-4">
