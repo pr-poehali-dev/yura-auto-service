@@ -54,7 +54,7 @@ export default function Index() {
                   <div>
                     <div className="text-3xl font-bold">с 9 до 18 часов
 Выходной воскресение</div>
-                    <div className="text-orange-100">работаем круглосуточно</div>
+                    <div className="text-orange-100">время работы</div>
                   </div>
                   <div>
                     <div className="text-3xl font-bold">100%</div>
