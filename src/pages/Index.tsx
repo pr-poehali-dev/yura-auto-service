@@ -11,7 +11,7 @@ export default function Index() {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center space-x-2">
               <Icon name="Wrench" className="h-8 w-8 text-orange-500" />
-              <span className="text-xl font-bold text-gray-900">АвтоМастер</span>
+              <span className="text-xl font-bold text-gray-900">АВТОМАСТЕРСКАЯ МАГНИТ</span>
             </div>
             <div className="hidden md:flex items-center space-x-8">
               <a href="#services" className="text-gray-700 hover:text-orange-500 transition-colors">Услуги</a>
