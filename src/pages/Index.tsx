@@ -28,7 +28,7 @@ export default function Index() {
       </nav>
 
       {/* Hero Section */}
-      <section className="bg-gradient-to-r from-orange-500 to-yellow-400 text-white py-20">
+      <section className="bg-gradient-to-r from-orange-500 to-yellow-400 text-white py-20 mx-0 rounded-none">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
@@ -49,7 +49,7 @@ export default function Index() {
               <div className="bg-white/10 backdrop-blur-sm rounded-xl p-8 border border-white/20">
                 <div className="grid grid-cols-2 gap-6 text-center">
                   <div>
-                    <div className="text-3xl font-bold">5+</div>
+                    <div className="text-3xl font-bold">15</div>
                     <div className="text-orange-100">лет опыта</div>
                   </div>
                   <div>
@@ -57,7 +57,8 @@ export default function Index() {
                     <div className="text-orange-100">довольных клиентов</div>
                   </div>
                   <div>
-                    <div className="text-3xl font-bold">24/7</div>
+                    <div className="text-3xl font-bold">с 9 до 18 часов
+Выходной воскресение</div>
                     <div className="text-orange-100">работаем круглосуточно</div>
                   </div>
                   <div>
@@ -78,9 +79,7 @@ export default function Index() {
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
               Наши услуги
             </h2>
-            <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Полный спектр услуг для вашего автомобиля
-            </p>
+            <p className="text-xl text-gray-600 max-w-2xl mx-auto">Ремонт ходовой части,замена узлов и агрегатов, замена ГРМ, мелкосрочный ремонт, замена масел и тех. жидкости</p>
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
