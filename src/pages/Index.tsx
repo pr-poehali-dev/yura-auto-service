@@ -240,7 +240,7 @@ export default function Index() {
                   </div>
                   <div>
                     <h3 className="font-semibold">Часы работы</h3>
-                    <p className="text-gray-300">Пн-Вс: 8:00-22:00</p>
+                    <p className="text-gray-300">Пн-Суб с 9  до 18 часов</p>
                   </div>
                 </div>
               </div>
