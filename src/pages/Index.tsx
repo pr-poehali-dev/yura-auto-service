@@ -32,14 +32,9 @@ export default function Index() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
-              <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
-                Профессиональный
-                <span className="block text-yellow-200">автосервис</span>
-              </h1>
-              <p className="text-xl mb-8 text-orange-100">
-                Ремонт ходовой части, быстрая замена масел и мелкосрочный ремонт. 
-                Качественно, быстро, с гарантией!
-              </p>
+              <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">АВТОМАСТЕРСКАЯ
+МАГНИТ</h1>
+              <p className="text-xl mb-8 text-orange-100"></p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Button size="lg" className="bg-white text-orange-500 hover:bg-gray-100">
                   <Icon name="Phone" className="mr-2 h-5 w-5" />
